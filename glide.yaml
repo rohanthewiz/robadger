@@ -1,0 +1,9 @@
+package: github.com/rohanthewiz/robadger
+import:
+- package: github.com/dgraph-io/badger
+  version: 310029a4613f1ae8070f44595082adafceb344b8
+- package: github.com/rohanthewiz/roencoding
+- package: github.com/rohanthewiz/serr
+  version: ~0.2.1
+- package: github.com/rohanthewiz/logger
+  version: ~0.2.1
